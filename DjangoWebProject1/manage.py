@@ -8,7 +8,7 @@ import sys
 
 if __name__ == "__main__":
     os.environ.setdefault(
-        "DJANGO_SETTINGS_MODULE",
+        "DJANGO_SETTINGS_MODULE",  
         "DjangoWebProject1.settings"
     )
 
