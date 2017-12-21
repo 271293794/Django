@@ -11,7 +11,7 @@ if __name__ == "__main__":
         "DJANGO_SETTINGS_MODULE",  
         "DjangoWebProject1.settings"
     )
-#!/加注释11111222223333344445555566667777888899990000
+#!/加注释1111122222333334444555556666777788889999
 
     from django.core.management import execute_from_command_line
 
